@@ -26,6 +26,7 @@ while(s<=e)
 int main()
 {
     int n;
+    cout<<"enter the size of array";
     cin>>n;
     int arr[n];
     cout<<"Enter the elements in array";
